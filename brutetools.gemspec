@@ -4,8 +4,8 @@ require File.expand_path('../lib/brutetools/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["MOZGIII"]
   gem.email         = ["mike-n@narod.ru"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Brutetools}
+  gem.summary       = %q{Brutetools}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
